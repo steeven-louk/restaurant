@@ -6,7 +6,6 @@ export default function Home() {
   return (
     <main>
       <Slider/>
-      hello world
       <Featured/>
       <Offer/>
     </main>
